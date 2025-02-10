@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+8KBet - Trang Chủ Nhà Cái 8KBetBuzz.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8KBet <https://8kbetbuzz.com/>`_ là nền tảng cá cược trực tuyến uy tín, mang đến trải nghiệm đa dạng từ thể thao, casino đến game slots. Trang chủ 8KBetBuzz.com cung cấp giao diện thân thiện, bảo mật cao và dịch vụ hỗ trợ khách hàng tận tâm, giúp người chơi an tâm giải trí và tận hưởng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://8kbetbuzz.com/
 
-   This project is under active development.
+Email: 8kbetbuzzcom@gmaiil.com
 
-Contents
---------
+Số điện thoại: 0988666777
 
-.. toctree::
+Địa chỉ: 120 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam
 
-   usage
-   api
+Hashtags: #8kbetbuzz #8kbet
